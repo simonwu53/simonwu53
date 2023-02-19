@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwu53&layout=compact&langs_count=10&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl&theme=dark" width="350" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simonwu53&theme=react" width="600" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simonwu53&theme=github-compact" width="600" />
 </a>
 
 

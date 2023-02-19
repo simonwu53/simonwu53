@@ -10,6 +10,9 @@
 
 
 ### Statistics
+<a href="https://github.com/songquanpeng/stats-cards">
+  <img align="center" src="https://stats.justsong.cn/api/github?username=simonwu53&theme=dark" width="350" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwu53&layout=compact&langs_count=10&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl&theme=dark" width="350" />
 </a>

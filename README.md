@@ -1,20 +1,22 @@
-### Hi there 👋
+### Hi, I'm Shan Wu 👨🏻‍💻
+*Ph.D. candidate in [University of Tartu](https://ut.ee/en)*
+*Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems*
 
-### Contacts
+
 <a href="mailto:Shan.Wu.1995@gmail.com">
   <img alt="Email" src="https://img.shields.io/twitter/follow/mail?label=Email&style=for-the-badge">
 </a>
 <a href="https://twitter.com/Im533_">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?label=Twitter%20%40Im533_&style=for-the-badge">
 </a>
-<a href="src/qr/qr_tg.jpg">
+<a href="https://t.me/sean533">
   <img alt="Telegram QR" src="https://img.shields.io/twitter/follow/sean533?label=TG%20%40sean533&style=for-the-badge">
 </a>
 <a href="https://instagram.com/53333_">
   <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/53333_?label=IG%20%4053333_&style=for-the-badge">
 </a>
-<a href="https://big533.cc/wordpress/">
-  <img alt="Homepage" src="https://img.shields.io/twitter/follow/homepage?label=HomePage&style=for-the-badge">
+<a href="https://big533.cc/wordpress/index.php/about-me/">
+  <img alt="CV" src="https://img.shields.io/twitter/follow/CV?label=HomePage&style=for-the-badge">
 </a>
 
 

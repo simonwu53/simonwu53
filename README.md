@@ -7,6 +7,10 @@
 <a href="https://instagram.com/53333_">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/53333_?label=IG%20%4053333_&style=for-the-badge">
 </a>
+<a href="https://big533.cc/wordpress/">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/53333_?label=HomePage&style=for-the-badge">
+</a>
+
 
 
 ### Statistics

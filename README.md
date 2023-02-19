@@ -1,4 +1,4 @@
-### Hi, I'm Shan Wu 👨🏻‍💻
+## Hi, I'm Shan Wu 👨🏻‍💻
 *Ph.D. candidate in [University of Tartu](https://ut.ee/en).*
 
 *Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems.*
@@ -25,15 +25,16 @@
 
 
 
-### Statistics
+## GitHub Statistics
 <a href="https://github.com/songquanpeng/stats-cards">
   <img align="center" src="https://stats.justsong.cn/api/github?username=simonwu53&theme=dark2" width="350" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwu53&layout=compact&langs_count=10&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl&theme=dark" width="350" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simonwu53&theme=github-compact" width="600" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simonwu53&theme=github-compact" width="700" />
 </a>
 
 

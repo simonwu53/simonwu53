@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### Contacts
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://img.shields.io/twitter/follow/Im533_?style=for-the-badge" />
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?style=for-the-badge">
 
 
 ### Statistics

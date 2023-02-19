@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### Contacts
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?style=for-the-badge">
+<a href="https://twitter.com/Im533_">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?style=for-the-badge">
+</a>
 
 
 ### Statistics

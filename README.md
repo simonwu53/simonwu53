@@ -1,10 +1,11 @@
 ### Hi, I'm Shan Wu 👨🏻‍💻
-*Ph.D. candidate in [University of Tartu](https://ut.ee/en)*
-*Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems*
+*Ph.D. candidate in [University of Tartu](https://ut.ee/en).*
+
+*Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems.*
 
 
 <a href="mailto:Shan.Wu.1995@gmail.com">
-  <img alt="Email" src="https://img.shields.io/twitter/follow/mail?label=Email&style=for-the-badge">
+  <img alt="Gmail" src="https://img.shields.io/twitter/follow/gmail?label=Gmail&style=for-the-badge">
 </a>
 <a href="https://twitter.com/Im533_">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?label=Twitter%20%40Im533_&style=for-the-badge">
@@ -16,7 +17,10 @@
   <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/53333_?label=IG%20%4053333_&style=for-the-badge">
 </a>
 <a href="https://big533.cc/wordpress/index.php/about-me/">
-  <img alt="CV" src="https://img.shields.io/twitter/follow/CV?label=HomePage&style=for-the-badge">
+  <img alt="CV" src="https://img.shields.io/twitter/follow/CV?label=CV&style=for-the-badge">
+</a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img alt="CV" src="https://komarev.com/ghpvc/?username=simonwu53&style=for-the-badge&color=lightgrey">
 </a>
 
 

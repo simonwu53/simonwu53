@@ -1,7 +1,7 @@
 ## Hi, I'm Shan Wu 👨🏻‍💻
 *Ph.D. candidate in [University of Tartu](https://ut.ee/en).*
 
-*Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems.*
+*Specialized in **Computer Vision (CV)**, **Machine Learning (ML)**, and **Intelligent Transportation Systems (ITS)**.*
 
 *Also a cat person, swimmer, photography & gym enthusiast.*
 

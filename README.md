@@ -3,6 +3,8 @@
 
 *Specialized in Computer Vision, Machine Learning, and Intelligent Transportation Systems.*
 
+*Also a cat person, swimmer, photography & gym enthusiast.*
+
 
 <a href="mailto:Shan.Wu.1995@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/twitter/follow/gmail?label=Gmail&style=for-the-badge">

@@ -2,7 +2,10 @@
 
 ### Contacts
 <a href="https://twitter.com/Im533_">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?style=for-the-badge">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?label=Twitter%20%40Im533_&style=for-the-badge">
+</a>
+<a href="https://instagram.com/53333_">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/53333_?label=IG%20%4053333_&style=for-the-badge">
 </a>
 
 

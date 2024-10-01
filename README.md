@@ -1,5 +1,5 @@
 ## Hi, I'm Shan Wu 👨🏻‍💻
-*Ph.D. candidate in [University of Tartu](https://ut.ee/en).*
+*Ph.D. candidate in [ITS Lab](https://its.cs.ut.ee/home/), [University of Tartu](https://ut.ee/en).*
 
 *Specialized in **Computer Vision (CV)**, **Machine Learning (ML)**, and **Intelligent Transportation Systems (ITS)**.*
 
@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simonwu53&theme=github-compact" width="700" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simonwu53&theme=github-compact" width="700" />
 </a>
 
 

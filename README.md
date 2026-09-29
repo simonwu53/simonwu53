@@ -1,5 +1,5 @@
 ## Hi, I'm Shan Wu 👨🏻‍💻
-*Ph.D. candidate in [ITS Lab](https://its.cs.ut.ee/home/), [University of Tartu](https://ut.ee/en).*
+*🎓 Ph.D. from the [ITS Lab](https://its.cs.ut.ee/home/), [University of Tartu](https://ut.ee/en).*
 
 *Specialized in **Computer Vision (CV)**, **Machine Learning (ML)**, and **Intelligent Transportation Systems (ITS)**.*
 
@@ -11,9 +11,6 @@
 </a>
 <a href="https://twitter.com/Im533_">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Im533_?label=Twitter%20%40Im533_&style=for-the-badge">
-</a>
-<a href="https://t.me/sean533">
-  <img alt="Telegram QR" src="https://img.shields.io/twitter/follow/sean533?label=TG%20%40sean533&style=for-the-badge">
 </a>
 <a href="https://instagram.com/53333_">
   <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/53333_?label=IG%20%4053333_&style=for-the-badge">
@@ -28,16 +25,28 @@
 
 
 ## GitHub Statistics
-<a href="https://github.com/songquanpeng/stats-cards">
-  <img align="center" src="https://stats.justsong.cn/api/github?username=simonwu53&theme=dark2" width="350" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwu53&layout=compact&langs_count=10&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl&theme=dark" width="350" />
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img alt="GitHub stats" src="./profile/stats-light.svg" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img alt="Top languages" src="./profile/top-langs-light.svg" height="180" />
+  </picture>
+</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simonwu53&theme=github-compact" width="700" />
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+    <img alt="Contribution snake" src="./profile/snake-light.svg" />
+  </picture>
+</p>
+
+<sub>Cards are generated daily by <a href="https://github.com/stats-organization/github-readme-stats-action">github-readme-stats-action</a> and <a href="https://github.com/Platane/snk">Platane/snk</a> (see <code>.github/workflows/readme-cards.yml</code>).</sub>
 
 
 <!--

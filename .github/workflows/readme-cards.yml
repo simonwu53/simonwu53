@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       STATS_OPTS: show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10
-      LANGS_OPTS: layout=compact&langs_count=8&hide_border=true&border_radius=10&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl
+      LANGS_OPTS: layout=compact&langs_count=8&hide_border=true&border_radius=10&hide=Jupyter%20Notebook&exclude_repo=DCGAN-tensorflow,ImagePicker,Django,webcrawl
     steps:
       - uses: actions/checkout@v6
 
